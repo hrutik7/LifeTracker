@@ -20,5 +20,5 @@ All the Life Tracker documentation is available in [the handbook](https://githu
 
 # Contributing
 
-- [ ]  If you are looking to contribute to Life Tracker, first of all, thank you! Please see our [guidelines for contributing](https://github.com/sumanthsumu1418/Cutshort)
+- [ ]  If you are looking to contribute to Life Tracker, first of all, thank you! Please see our [guidelines for contributing](https://github.com/sumanthsumu1418/Cutshort](https://github.com/hrutik7/LifeTracker/blob/main/CONTRIBUTING.md)
 .
