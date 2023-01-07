@@ -35,7 +35,7 @@ function Navigator() {
    */
   useEffect(() => {
     isMountedRef.current = true;
-    SplashScreen.hide({duration: 250});
+    SplashScreen.hide({duration: 2000});
     return () => {
       isMountedRef.current = false;
     };
